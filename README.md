@@ -18,3 +18,6 @@ This Penetration Testing Toolkit is a modular cybersecurity tool designed to hel
 
 The Port Scanner module helps identify open ports on a target machine by scanning user-specified IP addresses and ports, allowing users to check for vulnerabilities in network security. The Brute-Force Attack module attempts to crack login credentials by testing multiple passwords from a list against a given target website. Users can specify a login URL, username, and a password list file, and the system will systematically test each password to check for weak authentication mechanisms. The backend ensures proper error handling, preventing crashes due to missing files or incorrect input formats. This project is useful for cybersecurity learners, penetration testers, and developers who want to enhance their understanding of security vulnerabilities in web applications and networks. By integrating Flask, users can later add a web interface, making the toolkit easier to use. Future improvements may include features like SQL Injection detection, XSS testing, and automated vulnerability scanning, making it a comprehensive security testing tool.
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/aeb67c91-9840-46b6-9e24-cba81ca935a2)
